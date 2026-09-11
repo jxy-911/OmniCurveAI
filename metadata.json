@@ -1,0 +1,6 @@
+{
+  "name": "Omni Curve AI",
+  "description": "Omni Curve AI: Freehand curve recognition and real-time mathematical equation engine for Math National Festival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
